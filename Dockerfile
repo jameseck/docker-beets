@@ -1,5 +1,6 @@
 FROM docker.io/python:3.12-slim
 ADD requirements.txt /opt/requirements.txt
+ADD bashrc /root/.bashrc
 RUN \
     apt update && \
     apt install -y libchromaprint-tools vim --no-install-recommends && \
