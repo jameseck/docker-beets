@@ -1,0 +1,14 @@
+beets
+beets-describe
+discogs-client
+flask
+jellyfish
+mediafile
+musicbrainzngs
+mutagen
+numpy
+oauthlib
+pyacoustid
+pylast
+python3-discogs-client
+werkzeug
